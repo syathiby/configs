@@ -31,5 +31,11 @@
     118
   ],
   "editor.wordWrap": "wordWrapColumn",
-  "editor.wordWrapColumn": 118
+  "editor.wordWrapColumn": 118,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "codeium.enableConfig": {
+  
+    "*": true,
+    "markdown": true
+  }
 }
